@@ -44,9 +44,9 @@ const char V_SHADER_PATH[] = "shaders/vertex_textured.glsl",
            F_SHADER_PATH[] = "shaders/fragment_textured.glsl";
 
 //sprite globals
-const char SPRITE_PATH[] = "/Users/allan_home/Documents/CS-3113/Homework/Project_1/Project_1/images/tinkaton1.png";
-const char SPRITE_PATH_2[] = "/Users/allan_home/Documents/CS-3113/Homework/Project_1/Project_1/images/g_corviknight.png";
-const char SPRITE_PATH_3[] = "/Users/allan_home/Documents/CS-3113/Homework/Project_1/Project_1/images/star.png";
+const char SPRITE_PATH[] = "/Project_1/Project_1/images/tinkaton1.png";
+const char SPRITE_PATH_2[] = "/Project_1/Project_1/images/g_corviknight.png";
+const char SPRITE_PATH_3[] = "/Project_1/Project_1/images/star.png";
 
 //object texture ids
 GLuint sprite_texture_id;
